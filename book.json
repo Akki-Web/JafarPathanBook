@@ -1,3 +1,7 @@
-{
-    "root": "./root"
-}
+
+    {
+        "root": "./root",
+        "plugins": ["expandable-chapters-small"]
+    }
+
+    
