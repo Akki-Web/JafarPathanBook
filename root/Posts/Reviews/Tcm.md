@@ -1,20 +1,16 @@
-# hello
+# Course Review - Practical Ethical Hakcking by TCM Security
+#### Date: 2022-11-03
+#### Author: Jafar Pathan
+#### Read Time: 10 Min
 ---
-title = "Course Review - Practical Ethical Hacking - The Complete Course"
-date = "2022-11-03"
-author = "Jafar Pathan"
-#tags = ["cybermentor", "tcm", "course", "hacking"]
-cover = "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/956925ec734a46efbb0ac43c562eeff1/5d0949b474054798bee6d56f5e19b64d"
-writtenBy = "Zinja Coder"
-minuteReadingTime = "10 min read"
-description = "An honest course review of Practical Ethical Hacking Course provided by tcm secrutiy"
----
+
+![Cover](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/956925ec734a46efbb0ac43c562eeff1/5d0949b474054798bee6d56f5e19b64d)
 
 ## Just completed the Practical Ethical Hacking - The Complete Course offered by TCM Security instructed by Heath Adams AKA The Cyber Mentor.
 
 ---
 
-![TCM Cert image](img/posts/tcm-practical/certificate.png)
+![TCM Cert image](/img/posts/tcm-practical/certificate.png)
 
 ---
 
